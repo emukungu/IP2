@@ -1,0 +1,9 @@
+.container{
+  background-color: lightgrey;
+  border: 1px solid black; 
+}
+.jumbotron{
+  margin-top: 20px;
+  background-image: url("../img/assets/backgrounds/landing.jpg");
+
+}
