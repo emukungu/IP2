@@ -1,0 +1,26 @@
+.ptime{
+  background-color: #F15A29;
+  height: 105px;
+
+}
+.hhour{
+  margin-bottom: 0px;
+  height: 105px;
+}
+.lunch-img {
+  background-image: url("../img/assets/foodtop/lunch.jpg");
+}
+.breakfast-img{
+  background-image: url("../img/assets/foodtop/breakfast.jpg");
+}
+.dinner-img{
+  background-image: url("../img/assets/foodtop/dinner.jpg");
+}
+.lunch-img, .breakfast-img, .dinner-img{
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 210px;
+  width: 350px;
+
+}
