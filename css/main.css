@@ -1,10 +1,13 @@
 .fastfood, .drinks{
-  background: white; */
-  /* border-style: inset; */
-  box-shadow: 0px 10px 10px 0px black;
-  /* border: 1px solid grey; */
-
+  background: white;
+  border-radius: 0px;
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.19);
+  margin-bottom: 50px;
 }
 .drink2{
   text-align: left;
+  float: right;
+}
+.drink1{
+  float;left;
 }
