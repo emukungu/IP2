@@ -1,11 +1,15 @@
 .ptime{
   background-color: #F15A29;
   height: 105px;
-
+  color: white;
 }
 .hhour{
   margin-bottom: 0px;
   height: 105px;
+  color: grey;
+}
+.ptime, .hhour{
+  padding-top: 15px;
 }
 .lunch-img {
   background-image: url("../img/assets/foodtop/lunch.jpg");
@@ -21,6 +25,9 @@
   background-size: auto;
   background-repeat: no-repeat;
   height: 210px;
-  width: 350px;
-
+  /* width: 350px; */
+  color: white;
+  padding-top: 75px;
+  margin-left: -10px;
+  font-size: 25px;
 }
