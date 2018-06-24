@@ -1,12 +1,15 @@
-/* .landing{
+.landing{
   background-image: url("../img/assets/backgrounds/landing.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
-  height: 500px;
-} */
+  height: 640px;
+}
+/* #page-header h3{
+  color: white;
+  font-size: 40px;
 
- .col-md-6, .col-md-11, .col-md-1, .col-md-12{
-   border: 3px solid grey;
-   height: 200px;
- }
+}
+.text-center{
+  padding-top: 40px;
+} */
