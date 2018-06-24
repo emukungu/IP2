@@ -1,0 +1,15 @@
+.landing{
+  background-image: url("../img/assets/backgrounds/landing.jpg");
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 650px;
+}
+#page-header h3{
+  color: white;
+  font-size: 40px;
+
+}
+.text-center{
+  padding-top: 40px;
+} 
