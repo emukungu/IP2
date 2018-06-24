@@ -1,0 +1,10 @@
+.fastfood, .drinks{
+  background: white; */
+  /* border-style: inset; */
+  box-shadow: 0px 10px 10px 0px black;
+  /* border: 1px solid grey; */
+
+}
+.drink2{
+  text-align: left;
+}
