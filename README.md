@@ -1,14 +1,37 @@
-# Independent Project
+# Anita's Kitchen
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+## Landing SITE
+![Landing site]("img/landing.png")
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
+## Website
+This is a website build of Anita's Kitchen design.
 
-  4) Submit your link through Moringa School LMS.
+## Usage
+* Fork the repository
+* Create a new branch (--fix) in git on your computer
+* Make changes to the work on the new branch
+* Add the changes
+* Commit changes
+* Push the changes
+* Create a pull request
 
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+## Setup/Installation Requirements
+* Atom editor
+* git bash
+* Google chrome
+
+## Technologies Used
+* HTML
+* CSS
+* Javascript
+
+## Support and contact details
+For more information: Send a message on slack \@ Esther
+
+### Demo
+https://emukungu.github.io/mpft-ip/
+
+### License
+MIT License
+
+Copyright (c) 2018 **Esther**
