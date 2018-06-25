@@ -15,3 +15,11 @@
 .footer-logos{
   padding-top: 10px;
 }
+.menu{
+  display: inline;
+  border: 1px solid green;
+
+}
+.d{
+  border: 2px solid green;
+}
