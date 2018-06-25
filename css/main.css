@@ -18,5 +18,15 @@
 }
 .td-bg-color{
   border: 2px solid white;
-  
+
+}
+.nav-menu{
+  display: none;
+}
+.bg-header-color{
+  color: #F15A29;
+
+}
+.close{
+  float: right;
 }
