@@ -29,7 +29,7 @@ This is a website build of Anita's Kitchen design.
 For more information: Send a message on slack \@ Esther
 
 ### Demo
-https://emukungu.github.io/mpft-ip/
+https://emukungu.github.io/IP2/
 
 ### License
 MIT License
