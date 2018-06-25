@@ -10,6 +10,7 @@
 }
 .ptime, .hhour{
   padding-top: 15px;
+  border-radius: 0px;
 }
 .lunch-img {
   background-image: url("../img/assets/foodtop/lunch.jpg");
