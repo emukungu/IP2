@@ -1,0 +1,9 @@
+.bg-subscribe{
+  background-image: url("../img/assets/backgrounds/subscribe.jpg");
+  height: 301px;
+}
+.delivery{
+  color: white;
+  padding-top: 60px;
+  margin-bottom: 20px;
+}
