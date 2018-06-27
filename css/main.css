@@ -103,3 +103,32 @@
   color: red;
   border: 1px solid red;
 }
+.bg-img-foodbottom{
+  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+  height: 599px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  opacity: .9;
+}
+.text-row{
+  background: white;
+  padding: 0px;
+}
+.top-empty-row{
+  padding-top: 100px;
+}
+.img-row{
+  padding-top: 30px;
+
+}
+.img-row-text{
+  padding-top: 10px;
+  margin-bottom: 30px;
+  color: #F15A29;
+}
+
+.nav-justified a{
+  font-size: 20px;
+  color: inherit;
+}
