@@ -1,9 +1,7 @@
-======= 
-  /* width: 100%; */
 .landing{
   background-image: url("../img/assets/backgrounds/landing.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: auto;
   height: 636px;
   background-repeat: no-repeat;
 
@@ -40,6 +38,7 @@
 }
 .ptime, .hhour{
   padding-top: 15px;
+  margin-left: 20px;
 }
 .lunch-img {
   background-image: url("../img/assets/foodtop/lunch.jpg");
@@ -55,16 +54,20 @@
   background-size: auto;
   background-repeat: no-repeat;
   height: 210px;
-  /* width: 350px; */
+  width: 350px;
   color: white;
   padding-top: 75px;
   /* margin-left: 10px; */
   font-size: 25px;
-  border: 1px solid grey;
-=======
+  border-radius: 0px;
+  /* border: 1px solid grey; */
+}
 .bg-subscribe{
   background-image: url("../img/assets/backgrounds/subscribe.jpg");
   height: 301px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
 }
 .delivery{
   color: white;
