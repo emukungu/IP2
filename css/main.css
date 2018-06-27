@@ -119,6 +119,9 @@
   background-position: center;
   opacity: .9;
 }
+.img-bottom{
+  margin-right: 0px;
+}
 .text-row{
   background: white;
   padding: 0px;
@@ -170,10 +173,11 @@
   font-size: 20px;
 }
 .logo2{
-  padding-top: 100px;
+  padding-top: 60px;
 }
 .copyright{
   padding-top: 50px;
+  color: white
 }
 .footer-logos{
   padding-top: 10px;
