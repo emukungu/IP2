@@ -1,8 +1,5 @@
 # Anita's Kitchen
 
-## Landing SITE
-![Landing site]("img/landing.png")
-
 ## Website
 This is a website build of Anita's Kitchen design.
 
