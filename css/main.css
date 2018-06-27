@@ -38,29 +38,37 @@
 }
 .ptime, .hhour{
   padding-top: 15px;
-  margin-left: 20px;
+  /* margin-left: 0px; */
+
 }
 .lunch-img {
   background-image: url("../img/assets/foodtop/lunch.jpg");
+  /* margin-left: -6px; */
 }
 .breakfast-img{
   background-image: url("../img/assets/foodtop/breakfast.jpg");
+  /* margin-left: 1px; */
+
 }
 .dinner-img{
   background-image: url("../img/assets/foodtop/dinner.jpg");
+  /* margin-left: -5px; */
+
 }
-.lunch-img, .breakfast-img, .dinner-img{
-  background-position: center;
-  background-size: auto;
+.lunch-img,.breakfast-img, .dinner-img{
+  background-position: left;
+  /* background-size: 350px; */
+  width: 350px;
   background-repeat: no-repeat;
   height: 210px;
-  width: 350px;
   color: white;
   padding-top: 75px;
-  /* margin-left: 10px; */
   font-size: 25px;
   border-radius: 0px;
   /* border: 1px solid grey; */
+}
+#foodtop{
+  margin-left: -5px;
 }
 .bg-subscribe{
   background-image: url("../img/assets/backgrounds/subscribe.jpg");
@@ -133,7 +141,7 @@
   color: inherit;
 }
 
-.bg-color{
+.bg-color-customers{
   background: white;
 }
 .customer-info{
@@ -149,4 +157,28 @@
 }
 .hcustomers, .menu-info{
   color: #F15A29;
+}
+.bg-color{
+  background: #F15A29;
+  margin-left: 11px;
+  width: 1400px;
+
+}
+.we-are{
+  line-height: 50px;
+  color: white;
+  font-size: 20px;
+}
+.logo2{
+  padding-top: 100px;
+}
+.copyright{
+  padding-top: 50px;
+}
+.footer-logos{
+  padding-top: 10px;
+}
+.menu-footer{
+  display: inline;
+  color: white;
 }
